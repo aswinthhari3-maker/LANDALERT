@@ -1,0 +1,10 @@
+{
+  "name": "Remix LandAlert AI - NER Landslide Early Warning",
+  "description": "AI-enabled real-time landslide monitoring, GIS risk mapping, predictive early warning, and emergency response platform for the North Eastern Region of India.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
